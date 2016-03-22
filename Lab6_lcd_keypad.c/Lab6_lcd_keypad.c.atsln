@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lab6_lcd_keypad.c", "Lab6_lcd_keypad.c\Lab6_lcd_keypad.c.cproj", "{4374271E-26AF-4485-89A5-FB35CF3D383A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4374271E-26AF-4485-89A5-FB35CF3D383A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4374271E-26AF-4485-89A5-FB35CF3D383A}.Debug|AVR.Build.0 = Debug|AVR
+		{4374271E-26AF-4485-89A5-FB35CF3D383A}.Release|AVR.ActiveCfg = Release|AVR
+		{4374271E-26AF-4485-89A5-FB35CF3D383A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

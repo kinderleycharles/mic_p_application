@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\Debug/hw_3_623.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw_3_623.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw_3_623.map</FILE>
+  <FILE>hw_3_623.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Table><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>17</LINE></Table>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>25</LINE></MAIN>
+  <StoreInRam><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>55</LINE></StoreInRam>
+  <LOOP><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>33</LINE></LOOP>
+  <ANS><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>44</LINE></ANS>
+  <DONE><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>47</LINE></DONE>
+  <LOOP1><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>60</LINE></LOOP1>
+  <Exit><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\hw_3_623\hw_3_623\hw_3_623.asm</FILE><LINE>68</LINE></Exit>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Debug/Table_Load_Example.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Table_Load_Example.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Table_Load_Example.map</FILE>
+  <FILE>Table_Load_Example.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>53</LINE></MAIN>
+  <Table><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>30</LINE></Table>
+  <Hello><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>31</LINE></Hello>
+  <GoodBye><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>33</LINE></GoodBye>
+  <Total><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>47</LINE></Total>
+  <Outs><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>48</LINE></Outs>
+  <LOOP><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>71</LINE></LOOP>
+  <DONE><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Table_Load_Example\Table_Load_Example\Table_Load_Example.asm</FILE><LINE>80</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

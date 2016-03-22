@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\Input_Port\Input_Port\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Input_Port\Input_Port\Input_Port.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Input_Port\Input_Port\Debug/Input_Port.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Input_Port.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Input_Port.map</FILE>
+  <FILE>Input_Port.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Input_Port\Input_Port\Input_Port.asm</FILE><LINE>20</LINE></MAIN>
+  <TEST><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Input_Port\Input_Port\Input_Port.asm</FILE><LINE>68</LINE></TEST>
+ </LABELS>
+</ASSEMBLER_INFO>

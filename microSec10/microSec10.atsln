@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "microSec10", "microSec10\microSec10.asmproj", "{71989DA9-62E0-481F-9EDE-A3F43BE7344E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71989DA9-62E0-481F-9EDE-A3F43BE7344E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{71989DA9-62E0-481F-9EDE-A3F43BE7344E}.Debug|AVR.Build.0 = Debug|AVR
+		{71989DA9-62E0-481F-9EDE-A3F43BE7344E}.Release|AVR.ActiveCfg = Release|AVR
+		{71989DA9-62E0-481F-9EDE-A3F43BE7344E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

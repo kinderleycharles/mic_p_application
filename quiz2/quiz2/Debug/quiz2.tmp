@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\Debug/quiz2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>quiz2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>quiz2.map</FILE>
+  <FILE>quiz2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>24</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>37</LINE></LOOP>
+  <TEST1><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>51</LINE></TEST1>
+  <DELAY_250muSec><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>71</LINE></DELAY_250muSec>
+  <DELAY_250muSec1><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>65</LINE></DELAY_250muSec1>
+  <DONE><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\quiz2\quiz2\quiz2.asm</FILE><LINE>61</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>

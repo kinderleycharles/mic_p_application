@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Debug/Lab4_keypad.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4_keypad.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4_keypad.map</FILE>
+  <FILE>Lab4_keypad.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>23</LINE></MAIN>
+  <KEYS><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>20</LINE></KEYS>
+  <LOOP><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>74</LINE></LOOP>
+  <SCAN_KEYPAD><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>91</LINE></SCAN_KEYPAD>
+  <LOOPI><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>105</LINE></LOOPI>
+  <T1><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>113</LINE></T1>
+  <T2><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>119</LINE></T2>
+  <T3><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>125</LINE></T3>
+  <T4><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>131</LINE></T4>
+  <LOOPY><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>142</LINE></LOOPY>
+  <KEY_FOUND><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\Lab4_keypad\Lab4_keypad\Lab4_keypad.asm</FILE><LINE>157</LINE></KEY_FOUND>
+ </LABELS>
+</ASSEMBLER_INFO>

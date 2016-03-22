@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Kin\Documents\Atmel Studio\6.2\new_get\new_get\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\new_get\new_get\new_get.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\new_get\new_get\Debug/new_get.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>new_get.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>new_get.map</FILE>
+  <FILE>new_get.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\new_get\new_get\new_get.asm</FILE><LINE>37</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Kin\Documents\Atmel Studio\6.2\new_get\new_get\new_get.asm</FILE><LINE>77</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
